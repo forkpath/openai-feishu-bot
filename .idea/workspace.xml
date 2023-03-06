@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c10ed735-65b8-4992-b94b-2dd0e27ad131" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.env_sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sshConfigs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/qr-code.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/screenshot-env-config.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/screenshot-feishu-apply-1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/screenshot-feishu-apply-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/screenshot-feishu-apply-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/screenshot-no-quota.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/screenshot-openai-apply-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/screenshot-service-deploy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/screenshot-service-version.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/screenshot-text-answer.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.db.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pm2.config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/logger.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/morgan.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controllers/msg.ctl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/middleware/error.mw.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/middleware/validate.mw.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/question.model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/user.model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/schemas/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/msg.srv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/api-err.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/catch-async.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/pick.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HJRH04d2uqViYxnw2wZiXGSHFK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;18.14.2&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;18.14.2&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/key7men/Github/openai-feishu-bot&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/key7men/Library/Application Support/JetBrains/Toolbox/apps/WebStorm/ch-0/223.7571.168/WebStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="test.js" type="NodeJSConfigurationType" path-to-js-file="test.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c10ed735-65b8-4992-b94b-2dd0e27ad131" name="Changes" comment="" />
+      <created>1668001107928</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668001107928</updated>
+      <workItem from="1668001110849" duration="6289000" />
+      <workItem from="1668007586246" duration="1492000" />
+      <workItem from="1668009088880" duration="8000" />
+      <workItem from="1668044373712" duration="21199000" />
+      <workItem from="1668753783121" duration="6529000" />
+      <workItem from="1668781509605" duration="9327000" />
+      <workItem from="1668872199084" duration="633000" />
+      <workItem from="1669022965289" duration="7539000" />
+      <workItem from="1669086471517" duration="8981000" />
+      <workItem from="1669117725249" duration="10769000" />
+      <workItem from="1669169586990" duration="4605000" />
+      <workItem from="1669203501650" duration="8591000" />
+      <workItem from="1669255394788" duration="23000" />
+      <workItem from="1669355596557" duration="1588000" />
+      <workItem from="1669360669442" duration="2386000" />
+      <workItem from="1669385660672" duration="10819000" />
+      <workItem from="1669520927092" duration="6504000" />
+      <workItem from="1669598833960" duration="767000" />
+      <workItem from="1669619307152" duration="13068000" />
+      <workItem from="1669640409929" duration="323000" />
+      <workItem from="1669643327749" duration="2703000" />
+      <workItem from="1669737703995" duration="986000" />
+      <workItem from="1669817091320" duration="330000" />
+      <workItem from="1669904445448" duration="6476000" />
+      <workItem from="1669957456213" duration="1839000" />
+      <workItem from="1669967073290" duration="1180000" />
+      <workItem from="1669981631908" duration="11038000" />
+      <workItem from="1677739949606" duration="12106000" />
+      <workItem from="1677752425714" duration="483000" />
+      <workItem from="1677755853737" duration="51331000" />
+      <workItem from="1677918115448" duration="12154000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="includedJSSourcePackages">
+      <set>
+        <option value="puppeteer-stream" />
+      </set>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="experiment" id="8487971b-178e-4e14-82bc-c7871eb5f0d9" keyPath="$USER_HOME$/.ssh/id_tencent_experiment_rsa" port="22" customName="experiment" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
+        <option name="customName" value="experiment" />
+      </sshConfig>
+      <sshConfig host="43.153.226.15" id="b5efacf2-0b00-4996-a486-11c5362a7e07" keyPath="$USER_HOME$/.ssh/id_tencent_edge_rsa" port="22" customName="edge" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
+        <option name="customName" value="edge" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>

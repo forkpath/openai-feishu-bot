@@ -1,0 +1,16 @@
+{
+  "apps": [
+    {
+      "name": "openai-feishu-bot",
+      "script": "index.js",
+      "instance": 2,
+      "exec_mode": "cluster",
+      "autorestart": true,
+      "watch": false,
+      "time": true,
+      "env": {
+        "NODE_ENV": "production"
+      }
+    }
+  ]
+}
